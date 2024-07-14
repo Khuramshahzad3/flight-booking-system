@@ -1,0 +1,10 @@
+1,AIIA,Lahore,Pakistan,JIA,Karachi,Pakistan
+2,NIIA,Islamabad,Pakistan,JIA,Karachi,Pakistan
+3,SA,Sukker,Pakistan,JIA,Karachi,Pakistan
+4,FIA,Faislabad,Pakistan,SCA,Changi,Singapore
+5,MIA,Multan,Pakistan,JIA,Karachi,Pakistan
+6,QIA,Quetta,Pakistan,JIA,Karachi,Pakistan
+7,PIA,Peshawer,Pakistan,JIA,Karachi,Pakistan
+8,AIIA,Lahore,Pakistan,IA,Istanbul,Turkey
+9,NIIA,Islamabad,Pakistan,MA,Munich,Germany
+10,AIIA,Lahore,Pakistan,ZA,Zurich,Switzerland

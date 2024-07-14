@@ -1,0 +1,9 @@
+1,PK-224,2,7,confirmed,Business Class,22082023
+2,PK-226,4,5,confirmed,Economy,17082023
+3,PK-222,3,7,confirmed,Business Class,21082023
+4,PK-227,7,5,confirmed,Economy,18082023
+5,PK-228,1,7,confirmed,Business Class,22082023
+6,PK-229,4,5,confirmed,Economy,17082023
+7,PK-221,5,7,confirmed,Business Class,21082023
+8,PK-225,8,9,confirmed,Business Class,19082023
+9,PK-222,3,7,confirmed,Economy,20082023
